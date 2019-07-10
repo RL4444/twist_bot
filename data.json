@@ -1,0 +1,5 @@
+{"name":"person3","fruits":48,"_id":"9hQD5o2GMBJoiebS"}
+{"name":"person2","fruits":4,"_id":"NF75T0GshZHYWtit"}
+{"name":"person","fruits":88,"_id":"QpUVMVm7epXExrKN"}
+{"name":"paulo","fruits":24,"_id":"qH77qe5UfI2lET84"}
+{"$$indexCreated":{"fieldName":"name","unique":true,"sparse":false}}
